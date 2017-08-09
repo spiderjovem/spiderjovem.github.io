@@ -16,7 +16,7 @@
     border-radius:10px;
     background-color: cornflowerblue;
 }
-botao:hover{
+.botao:hover{
     color: white;
     border: none;
     padding: 14px 28px;
@@ -26,6 +26,5 @@ botao:hover{
 }
 
 body{
-    background-color: red;
     margin: 0;
 }
